@@ -2,8 +2,6 @@
 
 ### Hi there 👋, I am Jahangir Alam
 #### Web devoloper
-![Web devoloper](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/286803753_1421891214902655_3786072712919895194_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeExPvBYDjpEawoBYCbyw4btBH5Q_zh6VdYEflD_OHpV1oTC73nyCDkzSTj0eDXNnjLvvcOCGOUZlIkZUorbYMhv&_nc_ohc=iYYcqNK0uXwAX80kipR&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8VZ_bjw698tDReROvKlV2P15C22EeXwQYY4LH6aQ1DsA&oe=62E88A5E)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS /
