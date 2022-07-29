@@ -1,31 +1,37 @@
-![Web devoloper](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/286803753_1421891214902655_3786072712919895194_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeExPvBYDjpEawoBYCbyw4btBH5Q_zh6VdYEflD_OHpV1oTC73nyCDkzSTj0eDXNnjLvvcOCGOUZlIkZUorbYMhv&_nc_ohc=iYYcqNK0uXwAX80kipR&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8VZ_bjw698tDReROvKlV2P15C22EeXwQYY4LH6aQ1DsA&oe=62E88A5E)
+<h1 align="center">Hi 👋, I'm MD. Jahangir Alam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-### Hi there 👋, I am Jahangir Alam
-#### Web devoloper
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahangir506&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir506" /> </p>
 
-Skills: HTML / CSS /
+<p align="left"> <a href="https://twitter.com/jahangir9649jk" target="blank"><img src="https://img.shields.io/twitter/follow/jahangir9649jk?logo=twitter&style=for-the-badge" alt="jahangir9649jk" /></a> </p>
 
-- 🔭 I’m currently working on Progrmming Hero Student 
-- 🌱 I’m currently learning HTML / CSS / Javascript ... runing.. 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning **Programming Hero_ Team _Courses**
 
+- 🤝 I’m looking for help with **github**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Jahangir506)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-jahangir-alam-4b5a00222//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/MD.Jahangir.Alam.JK/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/odvut_jk__bangladesh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Jahangir9649JK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCbgxNED6NGCmP6GY2m_xjiw)  
+- 💬 Ask me about **html, css, javascript running...**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **zahangirkhan506@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Jahangir506)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **I am funny**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Jahangir506)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media" alt="Coding" align="right"
+      width="400" srcset="">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Jahangir506&show_icons=true&count_private=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jahangir9649jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir9649jk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/md.jahangir.alam.jk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.jahangir.alam.jk/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/odvut_jk__bangladesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/odvut_jk__bangladesh/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Jahangir506)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Jahangir506)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahangir506&show_icons=true&locale=en&layout=compact" alt="jahangir506" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Jahangir506)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahangir506&show_icons=true&locale=en" alt="jahangir506" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Jahangir506)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahangir506&" alt="jahangir506" /></p>
