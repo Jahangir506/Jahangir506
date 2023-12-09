@@ -2,9 +2,15 @@
 
 <img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
 
-<p align="center">I'am MD. Jahangir Alam</p>
-<p align="center">A Mern Stack developer </p>
+<h3 align="center">I'am MD. Jahangir Alam</h3>
+<h6 align="center">A Mern Stack developer 🧑‍💻 </h6>
 
+# About Me:
+
+<p>
+      I’m currently learning everything Programming_2023 Goals: Contribute to Open Source projects- Inshallah.!
+</p>
+<br/>
 - 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
 
 - 🤝 I’m looking for help with **github**
@@ -18,12 +24,9 @@
 # Connect with me:
 
 <p align="center">
-<a href="https://twitter.com/jahangir9649jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir9649jk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MD.Jahangir.Alam.JK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.jahangir.alam.jk/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/odvut_jk__bangladesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/odvut_jk__bangladesh/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/Jahangir506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir9649jk" height="30" width="40" /></a>
 
 # Current Stats:
 
