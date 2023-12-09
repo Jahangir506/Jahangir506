@@ -36,8 +36,14 @@
 ## Languages and Tools:
 
 <p align="center">
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,tailwind,js,react" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
