@@ -5,8 +5,6 @@
 <p align="center">I'am MD. Jahangir Alam</p>
 <p align="center">A Mern Stack developer </p>
 
-
-
 - 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
 
 - 🤝 I’m looking for help with **github**
@@ -22,7 +20,7 @@
 <p align="center">
 <a href="https://twitter.com/jahangir9649jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir9649jk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.jahangir.alam.jk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.jahangir.alam.jk/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MD.Jahangir.Alam.JK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.jahangir.alam.jk/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/odvut_jk__bangladesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/odvut_jk__bangladesh/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbgxned6ngcmp6gy2m_xjiw" height="30" width="40" /></a>
 </p>
@@ -36,11 +34,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
   </a>
 </p>
 
-# Learning Progress:
+# latest Project:
 
 <p align="center">
 <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jahangir506&show_icons=true&locale=en&layout=compact" alt="jahangir506" />
