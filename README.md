@@ -1,9 +1,10 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahangir506&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir506" /> </p>
+
 <img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
 
 <p align="center">I'am MD. Jahangir Alam</p>
 <p align="center">A Mern Stack developer </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahangir506&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir506" /> </p>
 
 
 - 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
