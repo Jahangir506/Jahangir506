@@ -1,4 +1,4 @@
-<img align="center" width="400" src="/assets/cover/cover/cover.png"/>
+<img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
 <h1 align="center">Hi 👋, I'm MD. Jahangir Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
