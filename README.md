@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahangir506&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir506" /> </p>
 
-<img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
+<img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/Front-end%20devoloper.gif"/>
 
 <h3 align="center">I'am MD. Jahangir Alam</h3>
 <h5 align="center">A React front-end developer 🧑‍💻 </h5>
