@@ -3,12 +3,12 @@
 <img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/cover/cover.png"/>
 
 <h3 align="center">I'am MD. Jahangir Alam</h3>
-<h6 align="center">A Mern Stack developer 🧑‍💻 </h6>
+<h5 align="center">A React front-end developer 🧑‍💻 </h5>
 
-# About Me:
+## About Me:
 
 <p>
-      I’m currently learning everything Programming_2023 Goals: Contribute to Open Source projects- Inshallah.!
+     Hi , I am Md Jahangir Alam, a dedicated and enthusiastic React front-end developer. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess something knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.
 </p>
 <br/>
 - 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
@@ -21,19 +21,19 @@
 
 - ⚡ Fun fact **I am funny**
 
-# Connect with me:
+## Connect with me:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jahangir-alam-4b5a00222/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MD.Jahangir.Alam.JK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.jahangir.alam.jk/" height="30" width="40" /></a>
 <a href="https://twitter.com/Jahangir506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahangir9649jk" height="30" width="40" /></a>
 
-# Current Stats:
+## Current Stats:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahangir506&" alt="jahangir506" />
 </p>
 
-# Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-# Projects:
+## Projects:
 <h4>🗸  Blood Donation Save-Life Website (MERN STACK)</h4> <br/>
 Front-end Live Site Link:  https://save-life-754a1.web.app/ <br/> <br/>
 Client Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-Jahangir506 <br/> <br/>
@@ -63,6 +63,7 @@ Server Side GitHub Repository Link:  https://github.com/Porgramming-Hero-web-cou
 Front-end Live Site Link:  https://brand-shop-6a8b1.web.app/ <br/> <br/>
 Client Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Jahangir506 <br/> <br/>
 Server Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Jahangir506
+
 <br/> <br/>
 
 <p align="center">
