@@ -1,3 +1,4 @@
+<img align="center" width="400" src="/assets/cover/cover/cover.png"/>
 <h1 align="center">Hi 👋, I'm MD. Jahangir Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahangir9649jk" target="blank"><img src="https://img.shields.io/twitter/follow/jahangir9649jk?logo=twitter&style=for-the-badge" alt="jahangir9649jk" /></a> </p>
 
-- 🌱 I’m currently learning **Programming Hero_ Team _Courses**
+- 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
 
 - 🤝 I’m looking for help with **github**
 
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **I am funny**
 
- <img src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media" alt="Coding" align="right"
+<img src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media" alt="Coding" align="right"
       width="400" srcset="">
 
 <h3 align="left">Connect with me:</h3>
