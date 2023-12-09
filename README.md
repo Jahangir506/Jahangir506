@@ -47,8 +47,24 @@
   </a>
 </p>
 
-# latest Project:
+# Projects:
+<h4>🗸  Blood Donation Save-Life Website (MERN STACK)</h4> <br/>
+Front-end Live Site Link:  https://save-life-754a1.web.app/ <br/> <br/>
+Client Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-Jahangir506 <br/> <br/>
+Server Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-server-side-Jahangir506
+
+<h4>🗸  Cafe Shop Website (MERN STACK)</h4> <br/>
+Front-end Live Site Link:  https://tong-adda.web.app/ <br/> <br/>
+Client Side GitHub Repository Link: https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Jahangir506 <br/> <br/>
+Server Side GitHub Repository Link:  https://github.com/Porgramming-Hero-web-course/b8a11-server-side-Jahangir506
+<br/> <br/>
+
+<h4>🗸  Technology Products Website (MERN STACK)</h4> <br/>
+Front-end Live Site Link:  https://brand-shop-6a8b1.web.app/ <br/> <br/>
+Client Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Jahangir506 <br/> <br/>
+Server Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Jahangir506
+<br/> <br/>
 
 <p align="center">
-<img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jahangir506&show_icons=true&locale=en&layout=compact" alt="jahangir506" />
+<img width="493"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jahangir506&show_icons=true&locale=en&layout=compact" alt="jahangir506" />
 </p>
