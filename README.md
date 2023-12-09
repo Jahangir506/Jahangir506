@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about **html, css, javascript running...**
+- 💬 Ask me about **html, css, tailwind, javascript, react, mongodb, firebase, git ang running learn Next.js ...**
 
-- 📫 How to reach me **zahangirkhan506@gmail.com**
+- 📫 How to reach me **md.jahangir.alam9649@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
