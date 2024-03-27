@@ -44,10 +44,10 @@
     <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
   </a>
     <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=tailwind,html" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=css" />
   </a></p>
   <br/>
 
