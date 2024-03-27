@@ -37,18 +37,14 @@
 
 <div>
 <h5 align="center">Expertise</h5>
- <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,js" />
+ <p align="center"> 
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,js,mongodb,express,firebase" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
+   <a href="https://en.wikipedia.org/wiki/HTML5">
+    <img src="https://skillicons.dev/icons?i=tailwind,css,html" />
   </a>
-    <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img src="https://skillicons.dev/icons?i=tailwind,html" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a></p>
+</p>
   <br/>
 
   <h5 align="center">Tools</h5>
