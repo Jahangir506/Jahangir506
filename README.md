@@ -36,8 +36,8 @@
 ## Languages and Tools:
 
 <div>
-<h6 align="center">Expertise</h6>
- <p> <a href="https://skillicons.dev">
+<h5 align="center">Expertise</h5>
+ <p align="center"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,react,js" />
   </a>
   <a href="https://skillicons.dev">
@@ -51,8 +51,8 @@
   </a></p>
   <br/>
 
-  <h6 align="center">Tools</h6>
- <p> <a href="https://skillicons.dev">
+  <h5 align="center">Tools</h5>
+ <p align="center"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
   </a></p>
  <br/>
