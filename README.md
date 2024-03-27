@@ -8,7 +8,7 @@
 ## About Me:
 
 <p>
-     Hi , I am a PHP Developer, I am committed to continuous self-improvement and advancement in web development.
+     Hi , I am a frontend Developer, I am committed to continuous self-improvement and advancement in web development.
 Eager to contribute my skills in Next.js, Rect.js and JavaScript while actively seeking opportunities to learn and
 grow within the field. Dedicated to making meaningful contributions to web projects and achieving my goals of
 becoming a proficient and innovative web developer.
