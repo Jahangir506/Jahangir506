@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about **Next.js, react.js, tailwind, javascript, mongodb, firebase, html, css, still learning redux and typescript ...**
+- 💬 Ask me about <h4>**Next.js, react.js, tailwind, javascript, mongodb, firebase, html, css, still learning redux and typescript ...**</h4>
 
 - 📫 How to reach me **md.jahangir.alam9649@gmail.com**
 
