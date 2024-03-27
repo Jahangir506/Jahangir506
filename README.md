@@ -40,14 +40,16 @@
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=css,tailwind" />
   </a>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=next,react,js" />
+  </a><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase,next.js" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
+  </a><br/>
+  <h1>Tools</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
   </a>
