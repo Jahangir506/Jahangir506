@@ -59,14 +59,17 @@
 ● Developed an innovative online voting platform facilitating the creation of elections, addition of
 candidates/voters, and ensuring integrity through single-vote verification, bolstering trust in the electoral
 process.
+<br/>
 ● Integrated advanced polling features enabling users to gather opinions and insights efficiently, enhancing
 decision-making processes and engagement among participants.
+<br/>
 ● Implemented a user-friendly Chatbot interface providing real-time assistance and guidance to voters,
 streamlining the voting experience and ensuring accessibility for all users.
+<br/>
 ● Designed robust Notification and Support systems, keeping participants informed about election updates
 and providing prompt assistance to address any queries or issues encountered, ensuring a smooth and
 satisfactory voting experience.
- <br/>
+<br/>
 Front-end Live Site Link:  https://brand-shop-6a8b1.web.app/ <br/> <br/>
 Client Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Jahangir506 <br/> <br/>
 Server Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Jahangir506
