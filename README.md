@@ -54,22 +54,33 @@
 </p>
 
 ## Projects:
+
+<h4>🗸  Digital Voting System: (DVS) _ Team project</h4>
+● Developed an innovative online voting platform facilitating the creation of elections, addition of
+candidates/voters, and ensuring integrity through single-vote verification, bolstering trust in the electoral
+process.
+● Integrated advanced polling features enabling users to gather opinions and insights efficiently, enhancing
+decision-making processes and engagement among participants.
+● Implemented a user-friendly Chatbot interface providing real-time assistance and guidance to voters,
+streamlining the voting experience and ensuring accessibility for all users.
+● Designed robust Notification and Support systems, keeping participants informed about election updates
+and providing prompt assistance to address any queries or issues encountered, ensuring a smooth and
+satisfactory voting experience.
+ <br/>
+Front-end Live Site Link:  https://brand-shop-6a8b1.web.app/ <br/> <br/>
+Client Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Jahangir506 <br/> <br/>
+Server Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Jahangir506
+
 <h4>🗸  Blood Donation Save-Life Website (MERN STACK)</h4> <br/>
 Front-end Live Site Link:  https://save-life-754a1.web.app/ <br/> <br/>
 Client Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-Jahangir506 <br/> <br/>
 Server Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-server-side-Jahangir506
+<br/> <br/>
 
 <h4>🗸  Cafe Shop Website (MERN STACK)</h4> <br/>
 Front-end Live Site Link:  https://tong-adda.web.app/ <br/> <br/>
 Client Side GitHub Repository Link: https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Jahangir506 <br/> <br/>
 Server Side GitHub Repository Link:  https://github.com/Porgramming-Hero-web-course/b8a11-server-side-Jahangir506
-<br/> <br/>
-
-<h4>🗸  Technology Products Website (MERN STACK)</h4> <br/>
-Front-end Live Site Link:  https://brand-shop-6a8b1.web.app/ <br/> <br/>
-Client Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-Jahangir506 <br/> <br/>
-Server Side GitHub Repository Link: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-Jahangir506
-
 <br/> <br/>
 
 <p align="center">
