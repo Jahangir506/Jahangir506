@@ -45,8 +45,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind,css,html" />
   </a>
 </p>
-  <br/>
-
   <h5 align="center">Tools</h5>
  <p align="center"> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
