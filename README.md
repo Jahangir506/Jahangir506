@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,tailwind,js,react" />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
@@ -85,10 +85,14 @@ Client Side : https://github.com/programming-hero-web-course1/b8a12-client-side-
 Server Side : https://github.com/programming-hero-web-course1/b8a12-server-side-Jahangir506
 <br/> <br/>
 
-<h4>🗸  Cafe Shop Website (MERN STACK)</h4> <br/>
-Front-end Live Site Link:  https://tong-adda.web.app/ <br/> <br/>
-Client Side GitHub Repository Link: https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Jahangir506 <br/> <br/>
-Server Side GitHub Repository Link:  https://github.com/Porgramming-Hero-web-course/b8a11-server-side-Jahangir506
+<h4>🗸 QuickTask: Task Management Project</h4>
+● Uses boards, lists, and cards for organizing tasks.<br/>
+● Simple interface, easy for individuals and teams.<br/>
+● Helps with task management, collaboration, and deadlines.<br/>
+<br/>
+Live Demo:  https://job-task1-a443b.web.app/ <br/> <br/>
+Client Side : https://github.com/Jahangir506/job-task1-client <br/> <br/>
+Server Side :  https://github.com/Jahangir506/job-task1-server
 <br/> <br/>
 
 <p align="center">
