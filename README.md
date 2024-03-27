@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about **Next.js, react.js, tailwind, javascript,  mongodb, firebase, html, css, still learning redux and typescript ...**
+- 💬 Ask me about **Next.js, react.js, tailwind, javascript, mongodb, firebase, html, css, still learning redux and typescript ...**
 
 - 📫 How to reach me **md.jahangir.alam9649@gmail.com**
 
@@ -36,23 +36,25 @@
 ## Languages and Tools:
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5">
+<h6 align="center">Expertise</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,js" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
+  </a>
+    <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,tailwind" />
   </a>
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,js" />
-  </a><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
-  </a><br/>
-  <h1>Tools</h1>
+
+  <h6 align="center">Tools</h6>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
-  </a>
+  </a><br/>
 </p>
 
 ## Projects:
