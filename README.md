@@ -8,14 +8,17 @@
 ## About Me:
 
 <p>
-     Hi , I am Md Jahangir Alam, a dedicated and enthusiastic React front-end developer. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess something knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.
+     Hi , I am a PHP Developer, I am committed to continuous self-improvement and advancement in web development.
+Eager to contribute my skills in Next.js, Rect.js and JavaScript while actively seeking opportunities to learn and
+grow within the field. Dedicated to making meaningful contributions to web projects and achieving my goals of
+becoming a proficient and innovative web developer.
 </p>
 <br/>
 - 🌱 I’m currently learning **Programming Hero\_ Team \_Courses**
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about <h4>**Next.js, react.js, tailwind, javascript, mongodb, firebase, html, css, still learning redux and typescript ...**</h4>
+- 💬 Ask me about *Next.js, react.js, tailwind, javascript, mongodb, firebase, html, css, still learning redux and typescript ...*
 
 - 📫 How to reach me **md.jahangir.alam9649@gmail.com**
 
