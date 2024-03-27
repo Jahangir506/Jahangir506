@@ -70,14 +70,19 @@ streamlining the voting experience and ensuring accessibility for all users.
 and providing prompt assistance to address any queries or issues encountered, ensuring a smooth and
 satisfactory voting experience.
 <br/> <br/>
-Live demo:  https://electronic-voting-system-beta.vercel.app/ <br/> <br/>
+Live Demo:  https://electronic-voting-system-beta.vercel.app/ <br/> <br/>
 Client Side : https://github.com/dreamwarrior6m/Electronic-Voting-System <br/> <br/>
 Server Side : https://github.com/dreamwarrior6m/EVS-server
 
-<h4>🗸  Blood Donation Save-Life Website (MERN STACK)</h4> <br/>
-Front-end Live Site Link:  https://save-life-754a1.web.app/ <br/> <br/>
-Client Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-Jahangir506 <br/> <br/>
-Server Side GitHub Repository Link: https://github.com/programming-hero-web-course1/b8a12-server-side-Jahangir506
+<h4>🗸  Save-Life: Blood Donation Project</h4>
+● Help people sign up as donors.<br/>
+● Enable users to find blood donation events.<br/>
+● Facilitate scheduling appointments for blood donation.<br/>
+● Allow users to request blood when needed, especially during emergencies. <br/>
+<br/>
+Live Demo:  https://save-life-754a1.web.app/ <br/> <br/>
+Client Side : https://github.com/programming-hero-web-course1/b8a12-client-side-Jahangir506 <br/> <br/>
+Server Side : https://github.com/programming-hero-web-course1/b8a12-server-side-Jahangir506
 <br/> <br/>
 
 <h4>🗸  Cafe Shop Website (MERN STACK)</h4> <br/>
