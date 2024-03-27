@@ -35,9 +35,9 @@
 
 ## Languages and Tools:
 
-<p align="center">
+<div>
 <h6 align="center">Expertise</h6>
-  <a href="https://skillicons.dev">
+ <p> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,react,js" />
   </a>
   <a href="https://skillicons.dev">
@@ -48,14 +48,15 @@
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,tailwind" />
-  </a>
+  </a></p>
   <br/>
 
   <h6 align="center">Tools</h6>
-  <a href="https://skillicons.dev">
+ <p> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
-  </a><br/>
-</p>
+  </a></p>
+ <br/>
+</div>
 
 ## Projects:
 
