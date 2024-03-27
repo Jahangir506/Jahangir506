@@ -3,7 +3,7 @@
 <img align="center" width="900" src="https://raw.githubusercontent.com/Jahangir506/Jahangir506/main/assets/cover/Front-end%20devoloper.gif"/>
 
 <h3 align="center">I'am MD. Jahangir Alam</h3>
-<h5 align="center">A React front-end developer 🧑‍💻 </h5>
+<h5 align="center">As a front-end developer 🧑‍💻 </h5>
 
 ## About Me:
 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about **html, css, tailwind, javascript, react, mongodb, firebase, git ang running learn Next.js ...**
+- 💬 Ask me about **Next.js, react.js, tailwind, javascript,  mongodb, firebase, html, css, still learning redux and typescript ...**
 
 - 📫 How to reach me **md.jahangir.alam9649@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am cool**
 
 ## Connect with me:
 
@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,firebase,next.js" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,figma,netlify" />
